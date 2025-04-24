@@ -15,7 +15,6 @@ Also, you will need the **guilded.py** and **openai** libraires.
 ```
 pip install guilded.py
 pip instell openai
-
 ```
 
 With the following commands, Xlax XLAXON should run. Also, the allowed channel id present in the code is the one for *The Xlax Clan*, if you want it to run on your own, you'll need to change it.
